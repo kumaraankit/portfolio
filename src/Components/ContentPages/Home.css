@@ -1,0 +1,40 @@
+.container-fluid {
+  background-color: black;
+  color: blue;
+  margin: 0;
+  min-height: 100vh;
+  background: fixed;
+}
+
+.blink_name {
+  animation: blinker 2.5s linear infinite;
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+}
+.paragraph {
+  text-align: center;
+  justify-content: center;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.about {
+  text-align: left;
+  font-size: 30px;
+  justify-content: left;
+}
+.head {
+  text-decoration: underline;
+}
+.rounded-circle {
+  padding-top: 60px;
+  height: 300px;
+  border-radius: 2px !important;
+}

@@ -1,0 +1,48 @@
+.card-img-top {
+  width: 86%;
+  height: 29%;
+  padding-left: 50px;
+  padding-top: 31px;
+  flex-shrink: 0;
+  background: black;
+}
+* {
+  background: black;
+}
+.card {
+  width: 56%;
+  height: 39%;
+  padding-left: 20px;
+  padding-top: 31px;
+  background: black;
+}
+.card-img {
+  width: 86%;
+  height: 39%;
+  padding-left: 30px;
+  padding-top: 31px;
+  flex-shrink: 0;
+}
+.card-img-bottom {
+  width: 86%;
+  height: 39%;
+  padding-left: 30px;
+  padding-top: 31px;
+  flex-shrink: 0;
+}
+.card-deck {
+  margin-right: 43px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+.card-title {
+  color: white;
+}
+.card-text {
+  color: white;
+}
+
+.project-description {
+  color: white;
+  text-align: center;
+}

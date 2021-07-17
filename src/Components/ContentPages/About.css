@@ -1,0 +1,51 @@
+.container-fluid {
+  background-color: black;
+  padding-bottom: 0%;
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.paragraphs {
+  justify-content: left;
+}
+.title {
+  text-align: center;
+  color: white;
+}
+.sd {
+  color: blue;
+}
+.skill-react {
+  color: yellow;
+}
+.skill-node {
+  color: yellowgreen;
+}
+.skill-typescript {
+  color: gray;
+}
+.web {
+  color: indigo;
+}
+.ui {
+  color: lightblue;
+}
+.full-stack {
+  color: lightgreen;
+}
+.passionate {
+  color: lightslategrey;
+}
+.blogs {
+  color: mediumblue;
+}
+.modern {
+  color: mediumslateblue;
+}
